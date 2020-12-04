@@ -1,0 +1,33 @@
+body{
+	background-color: lightgrey;
+}
+
+.bvsc img{
+	max-height: 20rem;
+	display: block;
+	margin: 15px auto;
+}
+
+.vit img{
+	max-height: 20rem;
+	display: block;
+	margin: 15px auto;
+}
+
+.frt img{
+	max-height: 20rem;
+	display: block;
+	margin: 15px auto;
+}
+
+.fejléc{
+	border: 2px solid black
+}
+
+.lábléc{
+	border: 2px solid black
+}
+
+.szabadido{
+	text-align: center;
+}

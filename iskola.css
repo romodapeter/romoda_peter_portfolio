@@ -1,0 +1,33 @@
+body{
+	background-color: lightgrey;
+}
+
+.gregor img{
+	max-height: 20rem;
+	display: block;
+	margin: 15px auto;
+}
+
+.balassi img{
+	max-height: 20rem;
+	display: block;
+	margin: 15px auto;
+}
+
+.bme img{
+	max-height: 20rem;
+	display: block;
+	margin: 15px auto;
+}
+
+.iskola{
+	text-align: center;
+}
+
+.fejléc{
+	border: 2px solid black
+}
+
+.lábléc{
+	border: 2px solid black
+}
